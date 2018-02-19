@@ -1,0 +1,10 @@
+{
+  "name": "tsc-fancy-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "tsc-fancy": "^1.0.0",
+    "typescript": "^2.7.2"
+  }
+}
